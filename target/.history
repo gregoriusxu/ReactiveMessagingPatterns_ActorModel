@@ -6,3 +6,16 @@ eclipse
 compile
 run
 eclipse
+compile
+eclipse
+compile
+reload
+eclipse
+compile
+clean
+clear
+reload
+compile
+eclipse
+ eclipse with-source=true
+eclipse skip-parents=false
